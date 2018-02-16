@@ -1,5 +1,6 @@
 /*
-	Program to to calculate prime numbers using sieve method(faster and efficient anta), outputs the prime numbers between lower limit(a) and upper limit(b). 
+	Program to to calculate prime numbers using sieve method(faster and efficient anta),
+	outputs the prime numbers between lower limit(a) and upper limit(b). 
 */
 #include<stdio.h>
 #include<stdlib.h>
